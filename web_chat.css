@@ -128,8 +128,8 @@ header {
 }
 
 .fa-user {
-  margin-right: 30px; /* Space between icon and name */
-  min-width: 20px; /* Ensures alignment if text wraps */
+  margin-right: 0px; /* Space between icon and name */
+  min-width: 0px; /* Ensures alignment if text wraps */
 }
 
 #chat-area {
